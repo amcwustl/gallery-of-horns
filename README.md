@@ -17,3 +17,9 @@ Estimate of time needed to complete: 30 minutes
 Start time: 2:42 pm
 Finish time: 2:53pm
 Actual time needed to complete: 11 minutes
+
+Number and name of feature: stretch - Add Interaction
+Estimate of time needed to complete: 30 minutes
+Start time: 2:55 pm
+Finish time: 3:21 pm
+Actual time needed to complete: 26 minutes

@@ -24,6 +24,7 @@ class HornedBeast extends React.Component {
     })
   }
 
+  // prevState fix from chatGPT
   darkBeast = () => {
     this.setState((prevState) => ({
       dark: !prevState.dark,
