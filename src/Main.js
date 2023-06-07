@@ -1,6 +1,6 @@
 import React from 'react';
 import HornedBeast from './HornedBeast';
-import data from './data/data.json';
+// import data from './data/data.json';
 import './Main.css';
 
 class Main extends React.Component {
@@ -8,8 +8,8 @@ class Main extends React.Component {
     return (
 
       <main>
-        {data.map(beastObj => {
-          return <HornedBeast image_url={beastObj.image_url} title ={beastObj.title} description ={beastObj.description} />
+        {this.props.data.map(beastObj => {
+          return <HornedBeast handleOpenModal={this.props.handleOpenModal} image_url={beastObj.image_url} title ={beastObj.title} description ={beastObj.description} />
         })}
       </main>
     )

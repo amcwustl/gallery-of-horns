@@ -3,3 +3,7 @@ main {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+main > * {
+  margin-bottom: 20px;
+}
