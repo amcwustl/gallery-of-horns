@@ -23,3 +23,9 @@ Estimate of time needed to complete: 30 minutes
 Start time: 2:55 pm
 Finish time: 3:21 pm
 Actual time needed to complete: 26 minutes
+
+Number and name of feature: 1 - Display a Modal
+Estimate of time needed to complete: One Hour
+Start time: 1:30pm
+Finish time: 2:30 pm
+Actual time needed to complete: 1 hr
