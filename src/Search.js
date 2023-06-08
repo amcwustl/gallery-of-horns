@@ -13,9 +13,10 @@ render() {
   return (
     <input
       type="text"
-      placeholder="Search..."
+      placeholder="Search by Name or Description..."
       onChange={this.handleSearch}
     />
+   
   );
   }
 }
