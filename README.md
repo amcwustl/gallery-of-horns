@@ -29,3 +29,9 @@ Estimate of time needed to complete: One Hour
 Start time: 1:30pm
 Finish time: 2:30 pm
 Actual time needed to complete: 1 hr
+
+Number and name of feature: 1 - Filter by Number of Horns
+Estimate of time needed to complete: One Hour
+Start time: 1:30pm
+Finish time: 2:15 pm
+Actual time needed to complete: 45 minutes
